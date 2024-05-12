@@ -1,0 +1,6 @@
+{
+  "INFO" : 3,
+  "ERROR" : 2,
+  "DEBUG" : 2,
+  "WARNING" : 1
+}
